@@ -1,0 +1,21 @@
+.alert {
+  background-color: #4dff4d;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px 0px;
+}
+.warning-high {
+  background-color: #ff3333;
+}
+.warning {
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px 0px;
+  width: 400px;
+}
+.warning-medium {
+  background-color: #ffff1a;
+}
+.warning-low {
+  background-color: #ffa31a;
+}

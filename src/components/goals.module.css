@@ -1,0 +1,29 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+}
+.formButton {
+  background-color: #00ffff;
+  margin-top: 10px;
+}
+.goalsContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.formBoundaries {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
